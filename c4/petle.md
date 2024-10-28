@@ -1,9 +1,3 @@
-**Zadania z wykorzystaniem pętli w Pythonie**
-
-Poniżej znajduje się lista kreatywnych zadań programistycznych, które pomogą Ci poćwiczyć korzystanie z pętli w Pythonie.
-
----
-
 **Zadanie 1: Wzór liczbowy**
 
 Napisz program, który wyświetli następujący wzór liczbowy, gdzie liczba wierszy jest podawana przez użytkownika:
